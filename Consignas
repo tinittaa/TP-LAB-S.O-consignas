@@ -1,0 +1,21 @@
+
+Parte práctica: 
+Crear desde la terminal una carpeta con nuestro apellido en el escritorio. Luego, crear un archivo llamado "consignas" (en donde responderemos las siguientes preguntas) y moverlo con el comando mv dentro de esa carpeta. 
+1) ¿para qué sirven los siguientes comandos?
+git commit -m “...” 
+registra los cambios realizados en el repositorio con un mensaje de descripción. 
+ls 
+lista los archivos y directorios en el directorio actual. 
+cd 
+cambia el directorio actual o otro especifico  
+pwd 
+muestra la ruta completa del directorio 
+2) ¿Cuál es la diferencia entre los siguientes comandos? 
+git add / git push 
+el git add es para guardar los cambios y el push envia los cambios al repositorio
+rmdir / rm -r 
+rmdir elimina directorios vacíos, mientras que rm -r elimina directorios y su contenido de forma recursiva. 
+cp / scp 
+el cp copia archivos o directorios, mientras que scp copia archivos entre sistemas de forma segura a través de ssh 
+install / remove 
+install agrega a software y remove lo elimina
